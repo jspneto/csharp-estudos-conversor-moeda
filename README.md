@@ -21,9 +21,12 @@ O programa deve ler a cotação atual do dólar e a quantidade de dólares que u
 ```bash
 |- Projeto/
    |- Img/
+   |- Src/
+      |- Conversor.cs
+   |- Program.cs
+   |- ProgramExamples.cs
    |- Projeto.csproj
    |- Projeto.sln
-   |- Program.cs
    |- README.md
 ```
 
@@ -31,8 +34,10 @@ O programa deve ler a cotação atual do dólar e a quantidade de dólares que u
 
 ## Evolução do Projeto (Tags)
 
-<lista de links para as tags do projeto>
+- [**v0.1**][1] — Classe estatica Conversor com calculo de IOF
 
 ## Objetivo Educacional
 
 Este projeto **não tem como foco a solução final perfeita**, mas sim o processo de aprendizado e a comparação entre abordagens diferentes para o mesmo problema.
+
+[1]: https://github.com/jspneto/csharp-estudos-conversor-moeda/tree/v0.1/Projeto "v0.1"
