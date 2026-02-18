@@ -1,6 +1,6 @@
-# Nome Completo do Projeto
+# Conversor de Moedas Simples
 
-<descrição resumida do projeto>
+Programa para calcular o valor total em reais na compra de dólares, considerando a cotação atual e a incidência de IOF.
 
 Este projeto foi desenvolvido de forma incremental, registrando a evolução do código em uma abordagem **orientada a objetos**.
 
@@ -14,7 +14,7 @@ Este projeto foi desenvolvido de forma incremental, registrando a evolução do 
 
 ## Enunciado do Projeto
 
-<descrição detalhada do problema resolvido no projeto>
+O programa deve ler a cotação atual do dólar e a quantidade de dólares que uma pessoa deseja comprar. Com base nesses dados, deve calcular o valor total a ser pago em reais, considerando a conversão cambial e a aplicação de 6% de IOF sobre o valor da operação.
 
 ## Estrutura do Projeto
 
